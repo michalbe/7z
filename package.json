@@ -13,6 +13,7 @@
     "lint": "node node_modules/jshint/bin/jshint ."
   },
   "dependencies": {
+    "binascii": "0.0.1",
     "lzma-native": "^0.1.2"
   }
 }
