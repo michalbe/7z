@@ -13,6 +13,7 @@
     "lint": "node node_modules/jshint/bin/jshint ."
   },
   "dependencies": {
+    "bigintjs": "^0.3.5",
     "binascii": "0.0.1",
     "jspack": "0.0.3",
     "lzma-native": "^0.1.2",
