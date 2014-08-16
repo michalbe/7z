@@ -11,5 +11,8 @@
   "scripts": {
     "test": "node tests/7z-tests.js",
     "lint": "node node_modules/jshint/bin/jshint ."
+  },
+  "dependencies": {
+    "lzma-native": "^0.1.2"
   }
 }
