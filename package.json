@@ -15,6 +15,7 @@
   "dependencies": {
     "binascii": "0.0.1",
     "jspack": "0.0.3",
-    "lzma-native": "^0.1.2"
+    "lzma-native": "^0.1.2",
+    "read-part-file": "^1.0.1"
   }
 }

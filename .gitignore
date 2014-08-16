@@ -25,3 +25,5 @@ build/Release
 node_modules
 
 py.py
+.DS_Store
+_TEMP.7z
